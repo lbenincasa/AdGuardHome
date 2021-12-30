@@ -1,0 +1,7 @@
+language: node_js
+
+language: go
+go:
+- master
+
+script: make
