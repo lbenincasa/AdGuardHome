@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/lbenincasa/AdGuardHome/tree/master.svg?style=shield)](https://circleci.com/gh/lbenincasa/AdGuardHome/tree/master)
+
 &nbsp;
 <p align="center">
   <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_home.svg" width="300px" alt="AdGuard Home" />
