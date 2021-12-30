@@ -1,6 +1,4 @@
-language: node_js
-
-language: go
+language: go, node_js
 go:
 - master
 
